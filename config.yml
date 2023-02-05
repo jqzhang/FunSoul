@@ -1,0 +1,7 @@
+env:
+  debug: true
+
+db:
+  host: 127.0.0.1:3369
+  name: root
+  password: 123$asdF
